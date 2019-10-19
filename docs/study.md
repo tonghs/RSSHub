@@ -33,6 +33,12 @@ pageClass: routes
 
 </Route>
 
+## 码农周刊
+
+### issues
+
+<Route author="tonghs" example="/manong-weekly" path="/manong-weekly" />
+
 ## 扇贝
 
 ### 用户打卡
@@ -134,9 +140,3 @@ pageClass: routes
 ### 最新
 
 <Route author="xyqfer" example="/icourse163/newest" path="/icourse163/newest" />
-
-## 码农周刊
-
-### issues
-
-<Route author="tonghs" example="/manong-weekly" path="/manong-weekly" />
